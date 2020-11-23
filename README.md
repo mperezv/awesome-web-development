@@ -2,6 +2,7 @@
 
 ## General
 * [Web Skills](https://andreasbm.github.io/web-skills/?compact)
+* [Wizard Zines](https://wizardzines.com/)
 
 
 ## JavaScript
@@ -13,6 +14,7 @@
 
 ## Git 
 * [Git Explorer](https://gitexplorer.com/)
+* [Oh Shit, Git!?!](https://ohshitgit.com/)
 
 
 

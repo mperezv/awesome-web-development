@@ -16,5 +16,6 @@
 * [Git Explorer](https://gitexplorer.com/)
 * [Oh Shit, Git!?!](https://ohshitgit.com/)
 
-
-
+## CSS 
+* [30 Seconds of CSS](https://github.com/30-seconds/30-seconds-of-css)
+* [CSS Tricks](https://css-tricks.com/)

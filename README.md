@@ -19,3 +19,7 @@
 ## CSS 
 * [30 Seconds of CSS](https://github.com/30-seconds/30-seconds-of-css)
 * [CSS Tricks](https://css-tricks.com/)
+* [Can I Use?](https://caniuse.com/)
+
+## PHP
+* [PHP The Right Way](https://phptherightway.com/)

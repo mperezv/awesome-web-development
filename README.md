@@ -1,4 +1,4 @@
-# Lista de recursos :nerd_face: :sparkles:
+:nerd_face: :sparkles:
 
 ## Arquitectura de software
 * [DDD Destilado](https://kalele.io/books/ddd-destilado/)
